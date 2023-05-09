@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Tanım
 
 Bu proje  [Create React App](https://github.com/facebook/create-react-app) ile hazırlanmıştır. Projenin state yönetimi redux-toolkit ile yapılmıştır.
 Site tasarımı tailwindcss kullanılarak yapılmıştır.
